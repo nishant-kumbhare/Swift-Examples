@@ -1,0 +1,13 @@
+//
+//  BaseConfig.xcconfig
+//  NKEnviornments
+//
+//  Created by Nishant Kumbhare on 02/12/21.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+
+APP_NAME = Demo
+
+DEVELOPMENT_TEAM = ABCD123EF

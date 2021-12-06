@@ -1,0 +1,14 @@
+//
+//  DebugConfig.xcconfig
+//  NKEnviornments
+//
+//  Created by Nishant Kumbhare on 02/12/21.
+
+#include "BaseConfig.xcconfig"
+
+APP_BUNDLE_IDENTIFIER = com.example.demo.debug
+APP_NAME = $(inherited) DBG
+
+API_KEY = abcdefgh123456_dbg
+
+
